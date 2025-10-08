@@ -1,13 +1,21 @@
+body{
+    background-color: #eeeeee;
+}
+
+
+
 h1 {
     color: palegreen;
-  p{
-    color: black;
-} 
 }
+
+p{color: darkblue;}
 
 .container{
     width: 500px;
-    background-color: cornsilk;
-    margin: auto;
+    background-color: #eeeeee;
+    margin:30px auto;
     padding: 20px;
+    border:3px solid #666666;
+    border-radius: 10px;
+    
 }
