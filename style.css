@@ -9,13 +9,14 @@ h1 {
 }
 
 p{color: darkblue;}
-
+img{
+    max-width:100% ;
+}
 .container{
-    width: 500px;
+    width: 700px;
     background-color: #eeeeee;
     margin:30px auto;
     padding: 20px;
     border:3px solid #666666;
-    border-radius: 10px;
-    
-}
+    border-radius: 10px;   
+}   
